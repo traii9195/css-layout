@@ -1,0 +1,17 @@
+.defered {
+font-weight: 400;
+font-family: Arial, Helvetica, sans-serif;
+color: #747474;
+padding-top: 70px;
+-webkit-font-smoothing: antialiased;
+}
+.section_inner {
+    zoom: 1;
+    max-width: 1015px;
+    padding-top: 0px;
+    padding-right:20px ;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    margin: auto,0px,0px,auto;
+    position:relative;
+}
